@@ -1,3 +1,8 @@
+---
+inclusion:always
+----
+
+
 # Reglas del proyecto: Hackathon NFL Big Data Bowl, UNAM
 
 Estas reglas aplican a todo lo que generes en este proyecto. Si una petición las contradice, dilo y propón la alternativa dentro del stack.
