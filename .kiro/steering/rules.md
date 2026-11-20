@@ -1,6 +1,6 @@
 ---
 inclusion: always
-----
+---
 
 
 # Reglas del proyecto: Hackathon NFL Big Data Bowl, UNAM
